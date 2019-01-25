@@ -1,0 +1,48 @@
+body{
+  background-color: #1e1f21;
+}
+
+#fr-slide{
+background-image: url('../img/prva.jpg');
+background-size: cover;
+
+}
+#sec-slide{
+background-image: url('../img/cetvrta.jpg');
+background-size: 100%;
+background-position: center;
+}
+#thr-slide{
+  background-image: url('../img/peta.jpg');
+  background-size: 100% 100%;
+  position: center;
+}
+.nav-mine{
+  background-color: black!important;
+}
+.btn-background{
+  background-color:#a82351;
+  border-color: #a82351;
+}
+.btn-background:hover{
+  background-color: #bc104d;
+  border-color: #bc104d;
+  color:black;
+
+}
+.white-color{
+  color:white;
+}
+.card-size-pic{
+  width:350px;
+  height: 300px;
+}
+.card-body-size{
+  height: 150px
+}
+.rose-text{
+  color:#c40756;
+}
+.cl-hide{
+  visibility: hidden;
+}
