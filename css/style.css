@@ -46,3 +46,6 @@ background-position: center;
 .cl-hide{
   visibility: hidden;
 }
+.foot-bg{
+  background-color: black!important;
+}
