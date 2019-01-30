@@ -41,11 +41,51 @@ background-position: center;
   height: 150px
 }
 .rose-text{
-  color:#c40756;
+  color:#c40756!important;
 }
 .cl-hide{
   visibility: hidden;
 }
 .foot-bg{
   background-color: black!important;
+}
+.reg-pic-size{
+  height: 200px;
+}
+.reg-ad-body-size{
+  height: 50px;
+  background-color:rgb(196, 7, 86,0.1);
+  border: 1px solid rgb(196, 7, 86,0.1);
+  border-bottom-left-radius: .25rem;
+  border-bottom-right-radius: .25rem;
+}
+.reg-text-size{
+  font-size: 22px;
+  text-align: center;
+  color:black!important;
+}
+.reg-text-size:hover{
+  text-decoration: none;
+}
+.reg-text-align{
+  text-align: center;
+  margin-top:-12px;
+
+}
+.card-body-mine-size{
+  height: 80px!important;
+}
+.a-font-size{
+font-size: 23px;
+}
+.a-font-size:hover{
+  color:#c40756;
+  text-decoration: none;
+}
+.pointer{
+  cursor: pointer;
+}
+.pos-pagination{
+  margin: 20px auto;
+
 }
