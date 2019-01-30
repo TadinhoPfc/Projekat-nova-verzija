@@ -1,0 +1,73 @@
+.col-lg-6{
+  color: white;
+}
+.container h2{
+  color:white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #a82351;
+  padding-bottom: 5px;
+}
+.my-container{
+  margin-top: 60px;
+}
+.foot-bg-a{
+  position: relative;
+  bottom: 0px;
+  width: 100%;
+}
+.oglas-slika{
+  height: 600px;
+  background-image: url("../img/oglas-deveta.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.row-slike{
+  margin-bottom: 40px;
+  width: 1200px;
+}
+.jos-slika1{
+  background-image: url("../img/oglas-deveta-1.jpg");
+  height: 300px;
+  width: 100px;
+  margin-right: 40px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.jos-slika2{
+  background-image: url("../img/oglas-deveta-2.png");
+  height: 300px;
+  width: 100px;
+  margin-right: 40px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}.jos-slika3{
+  background-image: url("../img/oglas-deveta-3.jpg");
+  height: 300px;
+  width: 100px;
+  margin-right: 40px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}.jos-slika4{
+  background-image: url("../img/oglas-deveta-4.jpg");
+  height: 300px;
+  width: 100px;
+  margin-right: 40px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}.jos-slika5{
+  background-image: url("../img/oglas-deveta-5.jpg");
+  height: 300px;
+  width: 100px;
+  margin-right: 40px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.slika:hover{
+  transform: scale(1.1);
+  transition: all .5s ease;
+    transition-property: all;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
